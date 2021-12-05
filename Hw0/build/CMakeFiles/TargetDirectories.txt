@@ -1,0 +1,3 @@
+/home/lsp/代码框架/build/CMakeFiles/rebuild_cache.dir
+/home/lsp/代码框架/build/CMakeFiles/edit_cache.dir
+/home/lsp/代码框架/build/CMakeFiles/Transformation.dir
